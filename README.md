@@ -14,5 +14,5 @@ In this application of linear algebra, we decided to look into how different lin
 ## **Code**
 **File overview:**
 * ```matches.cvs``` - cvs file with the data of all the matches outcomes of the season 20-21 of English Premier League (EPL).
-* ```example1.ipynb``` - file includes coding implementation of both The Perron-Frobenius Theorem and Colley`s ranking algorithm for a simple example.
+* ```example1.ipynb``` - file includes coding implementation of both the Perron-Frobenius Theorem and Colley`s ranking algorithm for a simple example.
 *
